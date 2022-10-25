@@ -1,0 +1,13 @@
+{
+	"name": "untitled",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"ag-psd": "^15.0.0",
+		"canvas": "^2.10.1",
+		"psd": "^3.4.0"
+	}
+}
